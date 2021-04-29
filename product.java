@@ -33,7 +33,7 @@ public class product{
         product z = new product();
         x.data(101,"Product 1",68);
         y.data(102,"Product 2",92);
-        z.data(103,"Product  3",34);
+        z.data(103,"Product 3",34);
         x.display();
         y.display();
         z.display();
