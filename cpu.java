@@ -22,6 +22,7 @@ public class cpu{
 	z.manu="Intel";
 	System.out.println("CPU"+"\n"+"Price"+x.price+"\n"+"RAM"+"\n"+"Memory:"+y.mem+"\t"+"Manufacture:"+y.manuf+"\n"+"PROCESSOR"+"\n"+"Cores:"+z.cores+"\t"+"Manufacurer Processor:"+z.manu);
 
+		
 	
 	}
 }
