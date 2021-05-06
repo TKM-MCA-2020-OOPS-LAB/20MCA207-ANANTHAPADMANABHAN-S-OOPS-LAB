@@ -72,5 +72,5 @@ public class SymmetricMatrix
         }
          
         sc.close();
-    }
+   }
 }
