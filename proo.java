@@ -14,6 +14,7 @@ proo z = new proo();
   y.pcode=2; 
   y.pname="second";
   y.price=50;
+		
   
   z.pcode=3; 
   z.pname="third";
