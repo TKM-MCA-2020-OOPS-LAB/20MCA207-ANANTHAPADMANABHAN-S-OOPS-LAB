@@ -17,6 +17,7 @@ public class product{
         System.out.println("\n Product 1 is of the lowest ");
         
     }
+        
     else if(price2<=price1 && price2<=price3){
         System.out.println("\n Product 2 is of the lowest ");
         
