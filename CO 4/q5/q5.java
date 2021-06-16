@@ -21,8 +21,8 @@ class prime extends Thread
 	n=q.nextInt();
 	if (n >= 1)
     {
-       System.out.println("First "+n+" prime numbers are:");
-       //2 is a known prime number
+       System.out.println("prime numbers are:");
+     
        System.out.println(2);
     }
 
