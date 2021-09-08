@@ -2,8 +2,6 @@ package Q4;
 
 import java.util.Scanner;
 
-//Create an Arithmetic package that has classes and interfaces for the 4 basic arithmetic 
-//operations. Test the package by implementing all operations on two given numbers 
 interface operation
 { public void add();
 public void sub();
